@@ -11,7 +11,6 @@ Mejiro is an easy-to-use single-file PHP web app for instant photo publishing.
 - **Instant and easy photo publishing** Upload photos, and Mejiro does the rest.
 - **Basic EXIF data** The app extracts and displays basic EXIF info for each photo, including aperture, shutter speed, and ISO.
 - **Display geographical coordinates on OpenStreetMap or Google Maps** For geotagged photos, you can view their exact locations on OpenStreetMap.
-- **Short URLs** Mejiro can use a URL shortening service of your choice (default is [is.gd](http://is.gd/)) to generate short URLs for easy sharing.
 - **Optional description text** You can add a description to each photo by creating an accompanying *.txt* file. The app can also read and display descriptions from the photo's *UserComment* EXIF field.
 - **Automatic language detection** Mejiro automatically detects the browser language and picks the description text file with the appropriate language prefix.
 - **Link to RAW** For each photo in the JPEG format, you can upload the accompanying RAW file, and Mejiro automatically adds a link to it.
